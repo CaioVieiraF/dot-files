@@ -1,0 +1,5 @@
+{
+    "cmd": ["/home/v/Projects/zabbix_monitor/env/bin/python", "-u", "$file"],
+    "selector": "source.python",
+    "file_regex": "^\\s*File \"(...*?)\", line ([0-9]*)"
+}

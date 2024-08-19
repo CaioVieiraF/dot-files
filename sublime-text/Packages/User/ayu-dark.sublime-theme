@@ -1,0 +1,31 @@
+[
+  {
+    "class": "sidebar_label",
+    "font.size": 22,
+    "font.bold": false,
+    "line.height": 1.4
+  },
+  {
+    "class": "sidebar_tree",
+    "row_padding": [
+      14,
+      12
+    ]
+  },
+  {
+    "class": "sidebar_container",
+    "content_margin": [
+      4,
+      8,
+      4,
+      4
+    ]
+  },
+  {
+    "class": "sidebar_button_control",
+    "content_margin": [
+      20,
+      20
+    ]
+  }
+]

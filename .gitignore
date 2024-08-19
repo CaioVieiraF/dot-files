@@ -1,0 +1,9 @@
+*
+!/sublime-text/
+!/sublime-text/Packages/
+!/sublime-text/Packages/User/
+!/sublime-text/Packages/User/*
+!.gitignore
+!/VSCodium/
+!/VSCodium/User/
+!/VSCodium/User/settings.json
