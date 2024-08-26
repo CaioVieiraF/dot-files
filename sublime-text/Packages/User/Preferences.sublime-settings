@@ -53,8 +53,8 @@
   "trim_trailing_white_space_on_save": true,
   "use_simple_full_screen": true,
   "word_wrap": false,
-  "theme": "ayu-dark.sublime-theme",
-  "color_scheme": "ayu-dark.sublime-color-scheme",
+  "theme": "Material Twilight.sublime-theme",
+  "color_scheme": "Packages/Materialize/schemes/Material Twilight.tmTheme",
   "index_files": true,
   "save_on_focus_lost": true,
   "ignored_packages":
